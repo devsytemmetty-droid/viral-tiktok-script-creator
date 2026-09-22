@@ -1,2 +1,5 @@
-# viral-tiktok-script-creator
-A powerful ChatGPT prompt to generate highly engaging, viral video scripts for TikTok and Instagram Reels with proven hook structures
+# Viral Tiktok Reels Script Creator
+Ini adalah repositori untuk menyimpan dokumentasi prompt AI saya.
+## 🚀 Coba Prompt Ini Sekarang
+Kamu bisa membeli dan mencoba langsung prompt ini di PromptBase melalui tautan berikut:
+👉 [Beli di PromptBase](https://promptbase.com/prompt/viral-tiktok-reels-script-creator-2)
