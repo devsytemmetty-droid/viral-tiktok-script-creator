@@ -4,7 +4,8 @@ Sebuah perintah (*prompt*) ChatGPT tingkat lanjut yang dirancang khusus untuk me
 
 ## 🔗 Dapatkan Prompt Lengkapnya
 Kamu bisa membeli dan mendapatkan akses instan ke *prompt* orisinal ini melalui tautan resmi PromptBase berikut:
-👉 **[Beli di PromptBase](https://promptbase.com)**
+👉 **[Beli di PromptBase]
+https://promptbase.com/prompt/viral-tiktok-reels-script-creator-2masa langsung profil gimana si kamu
 
 ---
 
