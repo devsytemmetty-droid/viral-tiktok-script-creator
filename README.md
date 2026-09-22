@@ -1,47 +1,47 @@
-# 🎬 Pembuat Skrip TikTok & Reels Viral (ChatGPT Prompt)
+# 🎬 Viral TikTok & Reels Script Creator (ChatGPT Prompt)
 
-Sebuah perintah (*prompt*) ChatGPT tingkat lanjut yang dirancang khusus untuk mengubah topik biasa menjadi skrip video pendek yang menarik, berpotensi viral, dan memiliki retensi penonton yang tinggi di TikTok maupun Instagram Reels.
+An advanced ChatGPT prompt engineered to turn regular topics into engaging short-form video scripts designed for high retention on TikTok and Instagram Reels.
 
-## 🔗 Dapatkan Prompt Lengkapnya
-Kamu bisa membeli dan mendapatkan akses instan ke *prompt* orisinal ini melalui tautan resmi PromptBase berikut:
-👉 **[Beli di PromptBase]
-https://promptbase.com/prompt/viral-tiktok-reels-script-creator-2masa langsung profil gimana si kamu
-
----
-
-## 🚀 Fitur & Keunggulan
-* **Struktur Hook Memikat:** Menyediakan berbagai pilihan struktur kalimat pembuka (3 detik pertama) yang terbukti psikologis mencegah penonton langsung *scroll* lewat.
-* **Pacing & Visual yang Jelas:** Menyertakan instruksi perpindahan kamera (*jump cut*), ekspresi kreator, hingga penempatan teks di layar untuk memaksimalkan retensi penonton.
-* **Call to Action (CTA) Alami:** Menghasilkan kalimat penutup yang memicu interaksi tinggi di kolom komentar.
-* **Ide Judul & Sampul (Thumbnail):** Dilengkapi rekomendasi judul video yang *click-worthy* dan konsep visual sampul yang mencolok.
+## 🔗 Get the Full Prompt
+Purchase and access the original prompt on PromptBase:
+👉 **[Buy on PromptBase]
+https://promptbase.com/prompt/viral-tiktok-reels-script-creator-2
 
 ---
 
-## 📝 Contoh Format Output yang Dihasilkan
-Ketika kamu memasukkan topik, prompt ini akan otomatis menyusun skrip dengan struktur profesional seperti berikut:
-
-### 1. Pilihan Hook (3 Detik Pertama)
-* **Opsi A:** *"Jika isi rekeningmu selalu menipis, berhenti scroll karena kamu mungkin melakukan 3 kesalahan ini..."*
-* **Opsi B:** *"Cara paling gampang buat bangkrut di umur 20-an? Lakukan tiga hal ini."*
-
-### 2. Isi Skrip (Body Script)
-*(Visual: Jump cut cepat, menunjuk ke arah kamera dengan ekspresi energik)*
-*"Dengar ya, kalau kamu di umur 20-an, lingkungan sering bohong soal uang. Kesalahan pertama: Menaruh semua uangmu di rekening biasa. Kamu membiarkan inflasi memakan uangmu..."*
-
-### 3. Panggilan Aksi (CTA)
-*"Dari kesalahan tadi, mana yang sering kamu lakukan? Tulis di komentar dan saya akan bantu jawab solusinya!"*
+## 🚀 Key Features & Benefits
+* **High-Retention Hooks:** 3-second scroll-stopping opening lines.
+* **Visual Pacing:** Jump cuts, creator expressions, and on-screen text.
+* **Natural CTAs:** Ending lines designed to boost engagement.
+* **Titles & Thumbnails:** Click-worthy title suggestions and visual concepts.
 
 ---
 
-## 🎯 Kasus Penggunaan Ideal
-* **Kreator Konten Edukasi & Finansial:** Membantu menyederhanakan topik berat (seperti investasi atau tips karir) menjadi ramah algoritma video pendek.
-* **Pemilik Bisnis / Online Shop:** Membuat video promosi produk tanpa terkesan kaku atau terlalu berjualan.
-* **Agensi Media Sosial:** Mempercepat proses *brainstorming* dan produksi *storyboard* untuk klien.
+## 📝 Example Output
+When providing a topic, the prompt structures the script professionally:
+
+### 1. Hook Options
+* **Option A:** *"If your bank account is constantly crying, stop scrolling because you're probably making these 3 mistakes."*
+* **Option B:** *"The easiest way to go broke in your 20s? Doing these three exact things."*
+
+### 2. Body Script
+*(Visual: Fast jump cut, pointing closely at the camera with an energetic expression)*
+*"Listen up, if you are in your 20s, society lies to you about money..."*
+
+### 3. Call to Action (CTA)
+*"Which of these mistakes are you currently making? Drop it in the comments..."*
 
 ---
 
-## 🛠️ Cara Penggunaan di ChatGPT
-1. Salin teks prompt yang kamu beli dari PromptBase.
-2. Tempelkan ke dalam ChatGPT (direkomendasikan menggunakan model GPT-4 ke atas).
-3. Masukkan komponen yang diminta seperti: `[Topik Video]`, `[Target Audiens]`, dan `[Tone/Gaya Bicara]`.
-4. AI akan langsung meramu skrip video siap pakai untukmu!
+## 🎯 Ideal Use Cases
+* **Educational & Finance Creators:** Simplifies complex topics into short videos.
+* **Business Owners:** Promotes products organically.
+* **Social Media Agencies:** Accelerates client brainstorming.
+
+---
+
+## 🛠️ How to Use in ChatGPT
+1. Copy the purchased prompt.
+2. Paste into ChatGPT (GPT-4 recommended).
+3. Fill in `[Topic]`, `[Target Audience]`, and `[Tone]`.
+4. Generate the script!
